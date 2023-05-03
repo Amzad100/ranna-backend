@@ -25,7 +25,11 @@ app.get('/recipes/:id', (req, res) =>{
     const selectedRecipes =  recipes.find(r=>r._id ===id);
     res.send(selectedRecipes);
 })
-
+app.get('/chefs/:id', (req, res) =>{
+    const id =parseInt(req.params.id);
+    const chefCatagory =  recipes.filter(r=>parseInt(r.category_id) ===id);
+    res.send(chefCatagory);
+})
 
 app.listen(port, ()=>{
     console.log(`Recipes api is running on port: ${port}`)

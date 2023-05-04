@@ -12,7 +12,7 @@
         "recipe_description": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
         "recipe_title": "Greek Gyro",
         "recipe_img": "https://i.ibb.co/S5rx42d/1.jpg",
-        "ingredients": [],
+        "ingredients": ["Natural language processing","Contextual understanding","Text generation"],
         "cooking_method": "Grilling",
         "rating": 4.5
     },

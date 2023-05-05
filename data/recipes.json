@@ -12,7 +12,7 @@
         "recipe_description": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
         "recipe_title": "Greek Gyro",
         "recipe_img": "https://i.ibb.co/S5rx42d/1.jpg",
-        "ingredients": ["Natural language processing","Contextual understanding","Text generation"],
+        "ingredients": ["Onion","garlic","green chillies", "Meet", "Oil"],
         "cooking_method": "Grilling",
         "rating": 4.5
     },
@@ -28,7 +28,7 @@
         "likes": 10000,
         "recipe_description": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
         "recipe_title": "Tomahawk Steak",
-        "ingredients": [],
+        "ingredients": ["Onion","garlic","green chillies", "Meet", "Oil"],
         "recipe_img": "https://i.ibb.co/rsnRhM0/2.jpg",
         "cooking_method": "Baking",
         "rating": 4.2
@@ -45,7 +45,7 @@
         "likes": 10000,
         "recipe_description": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
         "recipe_title": "Ultimate Cheese Burger",
-        "ingredients": [],
+        "ingredients": ["Onion","garlic","green chillies", "Meet", "Oil"],
         "recipe_img": "https://i.ibb.co/4FpsyvH/3.jpg",
         "cooking_method": "Slow Cooking",
         "rating": 4.8
@@ -62,7 +62,7 @@
         "chef_img": "https://i.ibb.co/2dpn6x2/Whats-App-Image-2022-02-28-at-11-50-10-PM.jpg",
         "recipe_description": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
         "recipe_title": "Baked Chicken Breast",
-        "ingredients": [],
+        "ingredients": ["Onion","garlic","green chillies", "Meet", "Oil"],
         "recipe_img": "https://i.ibb.co/L9BDQRJ/4.jpg",
         "cooking_method": "Stovetop",
         "rating": 4.5
@@ -79,7 +79,7 @@
         "likes": 5000,
         "recipe_description": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
         "recipe_title": "Chicken Tikka Masala",
-        "ingredients": [],
+        "ingredients": ["Onion","garlic","green chillies", "Meet", "Oil"],
         "recipe_img": "https://i.ibb.co/XF4DC9k/5.jpg",
         "cooking_method": "Grilling",
         "rating": 4.2
@@ -96,7 +96,7 @@
         "likes": 5000,
         "recipe_description": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
         "recipe_title": "Rotisserie Chicken",
-        "ingredients": [],
+        "ingredients": ["Onion","garlic","green chillies", "Meet", "Oil"],
         "recipe_img": "https://i.ibb.co/rZDvPjh/6.jpg",
         "cooking_method": "Boiling",
         "rating": 4.8
@@ -113,7 +113,7 @@
         "chef_img": "https://i.ibb.co/7jr7jdW/IMG-20210310-192244.jpg",
         "recipe_description": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
         "recipe_title": "Tofu and Cheese Pancakes",
-        "ingredients": [],
+        "ingredients": ["Onion","garlic","green chillies", "Meet", "Oil"],
         "recipe_img": "https://i.ibb.co/FwsXFvc/10.jpg",
         "cooking_method": "Pan-Frying",
         "rating": 4.7
@@ -130,7 +130,7 @@
         "likes": 15000,
         "recipe_description": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
         "recipe_title": "Chinese Veggie Stir Fry",
-        "ingredients": [],
+        "ingredients": ["Onion","garlic","green chillies", "Meet", "Oil"],
         "recipe_img": "https://i.ibb.co/t36z72t/11.jpg",
         "cooking_method": "Stir-Frying",
         "rating": 4.3
@@ -147,7 +147,7 @@
         "likes": 15000,
         "recipe_description": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
         "recipe_title": "Rice Pilaf & Carrots",
-        "ingredients": [],
+        "ingredients": ["Onion","garlic","green chillies", "Meet", "Oil"],
         "recipe_img": "https://i.ibb.co/1rrQwnn/12.jpg",
         "cooking_method": "Boiling",
         "rating": 4.6
@@ -164,7 +164,7 @@
         "chef_img": "https://i.ibb.co/zSfLWVD/IMG-75-83-copy.jpg",
         "recipe_description": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
         "recipe_title": "Vegetable pilau rice",
-        "ingredients": [],
+        "ingredients": ["Onion","garlic","green chillies", "Meet", "Oil"],
         "recipe_img": "https://i.ibb.co/RTMmQMJ/16.jpg",
         "cooking_method": "Baking",
         "rating": 4.4
@@ -182,7 +182,7 @@
         "recipe_description": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
         "recipe_title": "Persian Rice",
         "recipe_img": "https://i.ibb.co/s32jGbS/17.jpg",
-        "ingredients": [],
+        "ingredients": ["Onion","garlic","green chillies", "Meet", "Oil"],
         "cooking_method": "Grilling",
         "rating": 4.2
     },
@@ -198,7 +198,7 @@
         "likes": 7500,
         "recipe_description": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
         "recipe_title": "Fodni Bhaat Recipe",
-        "ingredients": [],
+        "ingredients": ["Onion","garlic","green chillies", "Meet", "Oil"],
         "recipe_img": "https://i.ibb.co/TgPL15B/18.jpg",
         "rating": 4.5
     },
@@ -214,7 +214,7 @@
         "chef_img": "https://i.ibb.co/yQLW909/188427.jpg",
         "recipe_description": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
         "recipe_title": "Salmon Pasta Pomodoro",
-        "ingredients": [],
+        "ingredients": ["Onion","garlic","green chillies", "Meet", "Oil"],
         "recipe_img": "https://i.ibb.co/6FdZ54b/13.jpg",
         "cooking_method": "Baking",
         "rating": 4.7
@@ -231,7 +231,7 @@
         "chef_name": "Hossain Al Asiful Arfin",
         "recipe_description": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
         "recipe_title": "Bruschetta with Tuna",
-        "ingredients": [],
+        "ingredients": ["Onion","garlic","green chillies", "Meet", "Oil"],
         "recipe_img": "https://i.ibb.co/MDjkrW8/14.jpg",
         "cooking_method": "Stovetop",
         "rating": 4.4
@@ -248,7 +248,7 @@
         "likes": 2500,
         "recipe_description": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
         "recipe_title": "Peruvian Cod Ceviche",
-        "ingredients": [],
+        "ingredients": ["Onion","garlic","green chillies", "Meet", "Oil"],
         "recipe_img": "https://i.ibb.co/w6n9T16/15.jpg",
         "cooking_method": "Baking",
         "rating": 4.9
@@ -265,7 +265,7 @@
         "chef_img": "https://i.ibb.co/PC6Wg7v/atik.jpg",
         "recipe_description": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
         "recipe_title": "Tart Pecan Pie",
-        "ingredients": [],
+        "ingredients": ["Onion","garlic","green chillies", "Meet", "Oil"],
         "recipe_img": "https://i.ibb.co/PjKV17c/Desserts.jpg",
         "cooking_method": "Stovetop",
         "rating": 4.3
@@ -282,7 +282,7 @@
         "likes": 12000,
         "recipe_description": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
         "recipe_title": "Tofu and Cheese Pancakes",
-        "ingredients": [],
+        "ingredients": ["Onion","garlic","green chillies", "Meet", "Oil"],
         "recipe_img": "https://i.ibb.co/QbrKBNP/8.jpg",
         "cooking_method": "Baking",
         "rating": 4.6
@@ -299,7 +299,7 @@
         "likes": 12000,
         "recipe_description": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
         "recipe_title": "Raspberry Tartlet",
-        "ingredients": [],
+        "ingredients": ["Onion","garlic","green chillies", "Meet", "Oil"],
         "recipe_img": "https://i.ibb.co/M1XgrK6/9.jpg",
         "cooking_method": "Simmering",
         "rating": 4.8
